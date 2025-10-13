@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "API_Manager"
+msgstr "مدیریت API"
+
+msgid "Documentation"
+msgstr "مستندات"
+
+msgid "Generate_New_Token"
+msgstr "ایجاد توکن جدید"
+
+msgid "Create_a_new_secure_API_token_for_external_applications"
+msgstr "ایجاد یک توکن امن جدید برای برنامه‌های خارجی."
+
+msgid "Generate_Token"
+msgstr "ایجاد توکن جدید"
+
+msgid "API_Information"
+msgstr "اطلاعات API"
+
+msgid "Endpoint"
+msgstr "آدرس Endpoint"
+
+msgid "Authentication"
+msgstr "احراز هویت"
+
+msgid "Bearer_Token"
+msgstr "توکن Bearer"
+
+msgid "Method"
+msgstr "روش (Method)"
+
+msgid "Active_Tokens"
+msgstr "توکن‌های فعال"
+
+msgid "Complete_API_reference_and_integration_guide"
+msgstr "مرجع کامل API و راهنمای یکپارچه‌سازی"
+
+msgid "No_API_tokens_yet"
+msgstr "هنوزی توکنی ایجاد نکرده‌اید"
+
+msgid "Quick_Links"
+msgstr "دسترسی سریع"
+
+msgid "Back_to_API_Manager"
+msgstr "بازگشت مدیریت API"
+
+msgid "Current"
+msgstr "زبان فعلی"
+
+msgid "Token"
+msgstr "توکن"
+
+msgid "Actions"
+msgstr "اقدامات"
+
+msgid "Copy"
+msgstr "کپی"
+
+msgid "Show"
+msgstr "نمایش"
+
+msgid "Hide"
+msgstr "مخفی کردن"
+
+msgid "Revoke"
+msgstr "لغو اعتبار و حذف"
+
+msgid "Copied"
+msgstr "کپی شد!"
+
+msgid "Are_you_sure_you_want_to_revoke_this_token"
+msgstr "آیا از لغو این توکن اطمینان دارید؟"
+
+msgid "API_Documentation"
+msgstr "مستندات API"
+
+msgid "API_Endpoints"
+msgstr "آدرس‌های API"
+
+msgid "Create_Post"
+msgstr "ایجاد نوشته"
+
+msgid "Headers"
+msgstr "هدرها (Headers)"
+
+msgid "Request_Body"
+msgstr "بدنه درخواست (Request Body)"
+
+msgid "Success_Response"
+msgstr "پاسخ موفق (Success Response)"
+
+msgid "Available_Languages"
+msgstr "زبان‌های در دسترس"
+
+msgid "Current_language"
+msgstr "زبان فعلی"
+
+msgid "English"
+msgstr "انگلیسی"
+
+msgid "Farsi"
+msgstr "فارسی"
+
+msgid "Russian"
+msgstr "روسی"
+
+msgid "Arabic"
+msgstr "عربی"
+
+msgid "This_plugin_automatically_detects_your_WordPress_language_setting_and_displays_the_interface_in_your_preferred_language"
+msgstr "این افزونه به‌صورت خودکار تنظیمات زبان وردپرس شما را تشخیص داده و رابط کاربری را بر اساس زبان ترجیحی‌تان نمایش می‌دهد."
+
+msgid "You_do_not_have_sufficient_permissions_to_access_this_page"
+msgstr "شما مجوز کافی برای دسترسی به این صفحه را ندارید."
+
+msgid "Secure_API_token_management_for_"
+msgstr "مدیریت امن توکن‌های API برای یکپارچه‌سازی با %s"
+
+msgid "Generate_your_first_token_to_start_using_the_"
+msgstr "اولین توکن خود را برای شروع استفاده از API %s ایجاد کنید"
+
+msgid "New_token_generated_successfully"
+msgstr "توکن جدید با موفقیت ایجاد شد."
+
+msgid "Token_revoked_successfully"
+msgstr "توکن با موفقیت لغو شد."
+
+msgid "Authentication_required"
+msgstr "احراز هویت لازم است: توکن Bearer یافت نشد"
+
+msgid "Invalid_or_expired_authentication"
+msgstr "توکن احراز هویت نامعتبر یا منقضی شده است"
+
+msgid "Post_title_is_required"
+msgstr "عنوان نوشته الزامی است"
+
+msgid "Failed_to_create_post"
+msgstr "خطا در ایجاد نوشته: %s"
+
+msgid "Post_created_successfully"
+msgstr "نوشته با موفقیت ایجاد شد"
+
+msgid "Token_is_valid"
+msgstr "توکن معتبر است"
+
+msgid "Your_Post_Title"
+msgstr "عنوان نوشته شما"
+
+msgid "Your_post_content_with_HTML_support"
+msgstr "محتوای نوشته شما با پشتیبانی از HTML"
+
+#~ msgid "Generate_API_Token"
+#~ msgstr "تولید توکن API"
+
+#~ msgid "No_active_API"
+#~ msgstr "هیچ توکن فعالی وجود ندارد"

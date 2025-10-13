@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: publana-api\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "API_Manager"
+msgstr "API Manager"
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "Generate_New_Token"
+msgstr "Generate New Token"
+
+msgid "Create_a_new_secure_API_token_for_external_applications"
+msgstr "Create a new secure API token for external applications."
+
+msgid "Generate_Token"
+msgstr "Generate New Token"
+
+msgid "API_Information"
+msgstr "API Information"
+
+msgid "Endpoint"
+msgstr "Endpoint"
+
+msgid "Authentication"
+msgstr "Authentication"
+
+msgid "Bearer_Token"
+msgstr "Bearer Token"
+
+msgid "Method"
+msgstr "Method"
+
+msgid "Active_Tokens"
+msgstr "Active API Tokens"
+
+msgid "Complete_API_reference_and_integration_guide"
+msgstr "Complete API reference and integration guide"
+
+msgid "No_API_tokens_yet"
+msgstr "No API tokens yet"
+
+msgid "Quick_Links"
+msgstr "Quick Links"
+
+msgid "Back_to_API_Manager"
+msgstr "Back to API Manager"
+
+msgid "Current"
+msgstr "Current"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Hide"
+msgstr "Hide"
+
+msgid "Revoke"
+msgstr "Revoke"
+
+msgid "Copied"
+msgstr "Copied"
+
+msgid "Are_you_sure_you_want_to_revoke_this_token"
+msgstr "Are you sure you want to revoke this token?"
+
+msgid "API_Documentation"
+msgstr "API Documentation"
+
+msgid "API_Endpoints"
+msgstr "API Endpoints"
+
+msgid "Create_Post"
+msgstr "Create Post"
+
+msgid "Headers"
+msgstr "Headers"
+
+msgid "Request_Body"
+msgstr "Request Body"
+
+msgid "Success_Response"
+msgstr "Success Response"
+
+msgid "Available_Languages"
+msgstr "Available Languages"
+
+msgid "Current_language"
+msgstr "Current language"
+
+msgid "English"
+msgstr "English"
+
+msgid "Farsi"
+msgstr "Farsi"
+
+msgid "Russian"
+msgstr "Russian"
+
+msgid "Arabic"
+msgstr "Arabic"
+
+msgid "This_plugin_automatically_detects_your_WordPress_language_setting_and_displays_the_interface_in_your_preferred_language"
+msgstr ""
+"This plugin automatically detects your WordPress language setting and displays the interface in your preferred language."
+
+msgid "You_do_not_have_sufficient_permissions_to_access_this_page"
+msgstr "You do not have sufficient permissions to access this page."
+
+msgid "Secure_API_token_management_for_"
+msgstr "Secure API token management for %s integrations"
+
+msgid "Generate_your_first_token_to_start_using_the_"
+msgstr "Generate your first token to start using the %s API"
+
+msgid "New_token_generated_successfully"
+msgstr "New token generated successfully."
+
+msgid "Token_revoked_successfully"
+msgstr "Token revoked successfully."
+
+msgid "Authentication_required"
+msgstr "Authentication required: Bearer token missing"
+
+msgid "Invalid_or_expired_authentication"
+msgstr "Invalid or expired authentication token"
+
+msgid "Post_title_is_required"
+msgstr "Post title is required"
+
+msgid "Failed_to_create_post"
+msgstr "Failed to create post: %s"
+
+msgid "Post_created_successfully"
+msgstr "Post created successfully"
+
+msgid "Token_is_valid"
+msgstr "Token is validToken is valid"
+
+msgid "Your_Post_Title"
+msgstr "Your Post Title"
+
+msgid "Your_post_content_with_HTML_support"
+msgstr "Your post content with HTML support"
+
+#~ msgid "Generate_API_Token"
+#~ msgstr "Generate API Token"
+
+#~ msgid "No_active_API"
+#~ msgstr "No active API tokens"
