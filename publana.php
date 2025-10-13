@@ -32,6 +32,21 @@ class Publana_APIManager {
         add_action('admin_menu', array($this, 'add_publana_admin_menu'));
         add_action('admin_init', array($this, 'handle_publana_form_submissions'));
         add_action('admin_enqueue_scripts', array($this, 'enqueue_publana_admin_assets'));
+        add_action('admin_head', function() {
+            echo '<style>
+    .toplevel_page_publana-api-manager .wp-menu-image img {
+        padding: unset !important;
+        width: 20px !important;
+        height: 20px !important;
+    }
+    .toplevel_page_publana-api-manager .wp-menu-image {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    </style>';
+        });
+
         $this->logo_url = plugin_dir_url(__FILE__) . 'logo.png';
     }
 
@@ -257,7 +272,7 @@ class Publana_APIManager {
         $language = $this->get_user_language();
         $is_rtl = in_array($language, ['ar', 'fa']);
 
-        wp_enqueue_style('publana-admin-css', plugin_dir_url(__FILE__) . 'assets/admin.css', array(), '1.4');
+        wp_enqueue_style('publana-admin-css', plugin_dir_url(__FILE__) . 'assets/admin.css', array(), '1.7');
 
         // Add dynamic CSS for brand colors
         wp_add_inline_style('publana-admin-css', "
@@ -276,6 +291,7 @@ class Publana_APIManager {
                 });
             ");
         }
+
     }
 
     /**
