@@ -1,0 +1,104 @@
+.publana {
+    max-width: 1200px;
+}
+
+.publana h1 {
+    margin-bottom: 10px;
+}
+
+.publana table {
+    margin-top: 20px;
+}
+
+.publana code {
+    font-size: 13px;
+    user-select: all;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Modal
+|--------------------------------------------------------------------------
+*/
+
+.publana-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 100000;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: rgba(0, 0, 0, .55);
+}
+
+.publana-modal-dialog {
+    width: 100%;
+    max-width: 700px;
+
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 20px 60px rgba(0,0,0,.25);
+
+    overflow: hidden;
+}
+
+.publana-modal-header {
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.publana-modal-header h2 {
+    margin: 0;
+}
+
+.publana-modal-body {
+    padding: 20px;
+}
+
+.publana-modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+
+    padding: 20px;
+
+    border-top: 1px solid #ddd;
+}
+
+#publana-token {
+    width: 100%;
+    margin-top: 15px;
+
+    font-family: Consolas, Monaco, monospace;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Utilities
+|--------------------------------------------------------------------------
+*/
+
+.publana-text-right {
+    text-align: right;
+}
+
+.publana-text-center {
+    text-align: center;
+}
+
+.publana-mt-20 {
+    margin-top: 20px;
+}
+
+.publana-mb-20 {
+    margin-bottom: 20px;
+}
+.button-link-delete{
+    border-color: #cc1818!important;
+    color: #cc1818!important;
+}
+.button-link-delete:focus {
+    box-shadow: unset!important;
+}
